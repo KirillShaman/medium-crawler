@@ -1,6 +1,8 @@
 # Medium Crawler
 This crawler has built up the following dataset based on Medium.com with ground truth sentence and review correspondence.
 
+***The dataset is currently under used for an ongoing research work. The crawler source code will be published along with the paper publication.***
+
 You may contact Charlie Wu at jw7jb@virginia.edu to obtain the dataset
 
 Crawler environment requirement 
